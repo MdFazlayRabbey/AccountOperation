@@ -1,0 +1,27 @@
+c:\users\r\documents\visual studio 2013\Projects\AccountOperation\AccountOperation\bin\Debug\AccountOperation.exe.config
+c:\users\r\documents\visual studio 2013\Projects\AccountOperation\AccountOperation\bin\Debug\AccountOperation.exe
+c:\users\r\documents\visual studio 2013\Projects\AccountOperation\AccountOperation\bin\Debug\AccountOperation.pdb
+c:\users\r\documents\visual studio 2013\Projects\AccountOperation\AccountOperation\obj\Debug\AccountOperation.csprojResolveAssemblyReference.cache
+c:\users\r\documents\visual studio 2013\Projects\AccountOperation\AccountOperation\obj\Debug\AccountOperation.Form1.resources
+c:\users\r\documents\visual studio 2013\Projects\AccountOperation\AccountOperation\obj\Debug\AccountOperation.Properties.Resources.resources
+c:\users\r\documents\visual studio 2013\Projects\AccountOperation\AccountOperation\obj\Debug\AccountOperation.csproj.GenerateResource.Cache
+c:\users\r\documents\visual studio 2013\Projects\AccountOperation\AccountOperation\obj\Debug\AccountOperation.exe
+c:\users\r\documents\visual studio 2013\Projects\AccountOperation\AccountOperation\obj\Debug\AccountOperation.pdb
+F:\print\AccountOperation\AccountOperation\bin\Debug\AccountOperation.exe.config
+F:\print\AccountOperation\AccountOperation\obj\Debug\AccountOperation.exe
+F:\print\AccountOperation\AccountOperation\obj\Debug\AccountOperation.pdb
+F:\print\AccountOperation\AccountOperation\obj\Debug\AccountOperation.csprojResolveAssemblyReference.cache
+F:\print\AccountOperation\AccountOperation\obj\Debug\AccountOperation.Form1.resources
+F:\print\AccountOperation\AccountOperation\obj\Debug\AccountOperation.Properties.Resources.resources
+F:\print\AccountOperation\AccountOperation\obj\Debug\AccountOperation.csproj.GenerateResource.Cache
+F:\print\AccountOperation\AccountOperation\bin\Debug\AccountOperation.exe
+F:\print\AccountOperation\AccountOperation\bin\Debug\AccountOperation.pdb
+C:\Users\Web App Develop .Net\Desktop\all\AccountOperation\AccountOperation\bin\Debug\AccountOperation.exe.config
+C:\Users\Web App Develop .Net\Desktop\all\AccountOperation\AccountOperation\obj\Debug\AccountOperation.exe
+C:\Users\Web App Develop .Net\Desktop\all\AccountOperation\AccountOperation\obj\Debug\AccountOperation.csprojResolveAssemblyReference.cache
+C:\Users\Web App Develop .Net\Desktop\all\AccountOperation\AccountOperation\obj\Debug\AccountOperation.Form1.resources
+C:\Users\Web App Develop .Net\Desktop\all\AccountOperation\AccountOperation\obj\Debug\AccountOperation.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Desktop\all\AccountOperation\AccountOperation\obj\Debug\AccountOperation.csproj.GenerateResource.Cache
+C:\Users\Web App Develop .Net\Desktop\all\AccountOperation\AccountOperation\bin\Debug\AccountOperation.exe
+C:\Users\Web App Develop .Net\Desktop\all\AccountOperation\AccountOperation\bin\Debug\AccountOperation.pdb
+C:\Users\Web App Develop .Net\Desktop\all\AccountOperation\AccountOperation\obj\Debug\AccountOperation.pdb
